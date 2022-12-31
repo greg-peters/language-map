@@ -5716,6 +5716,7 @@
       ".gypi",
       ".lmi",
       ".py3",
+      ".pyc",
       ".pyde",
       ".pyi",
       ".pyp",
